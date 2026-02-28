@@ -4,7 +4,7 @@
   <div>
     <a href="mailto:bailhsihan@gmail.com"><img src="https://img.shields.io/badge/Email-bailhsihan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="tel:+8619871355637"><img src="https://img.shields.io/badge/Phone-(+86)19871355637-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
-    <a href="https://github.com/bailh"><img src="https://img.shields.io/badge/GitHub-bailh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://github.com/li-si-han"><img src="https://img.shields.io/badge/GitHub-bailh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </div>
 </div>
 
