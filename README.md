@@ -4,7 +4,7 @@
   <div>
     <a href="mailto:bailhsihan@gmail.com"><img src="https://img.shields.io/badge/Email-bailhsihan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="tel:+8619871355637"><img src="https://img.shields.io/badge/Phone-(+86)19871355637-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
-    <a href="https://github.com/li-si-han"><img src="https://img.shields.io/badge/GitHub-bailh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://github.com/bailh"><img src="https://img.shields.io/badge/GitHub-bailh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </div>
 </div>
 
@@ -76,23 +76,37 @@
 <br>
 
 ## 💻 Technical Skills
-### 🛠️ Programming Languages
+### 🛠️ Programming Languages & Engineering Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
 </p>
 
-### 🧠 AI/ML Models
-| Category | Key Models |
+### 🧠 AI/ML Frameworks & Models
+| Category | Key Technologies & Models |
 |----------|------------|
-| Image Generation | MAE, GAN, VAE, Stable Diffusion |
-| Object Detection | YOLO(v5-v10), Fast R-CNN, DETR |
-| Vision Transformer | ViT, Swin Transformer, CLIP |
-| CNN Architectures | ResNet, DenseNet, MobileNet, CSPNet |
+| Deep Learning Frameworks | PyTorch, TensorFlow/Keras, ONNX, TorchServe |
+| Image Generation & Restoration | MAE, GAN/CycleGAN/Pix2Pix, VAE
+| Object Detection & Segmentation | YOLO(v5-v10)/YOLO-World, Fast R-CNN/Faster R-CNN, Mask R-CNN, DETR, GroundingDINO, SAM (Segment Anything) |
+| Vision Transformers | ViT, Swin Transformer, MobileViT, CLIP |
+| CNN Architectures | ResNet/ResNeXt, DenseNet, MobileNetV2/V3, EfficientNet, CSPNet, GhostNet, ShuffleNet |
+| Sequence Models & NLP | LSTM/GRU, BiLSTM, Transformer, BERT, LLaMA, FastText |
+| Traditional ML & Optimization | LightGBM, XGBoost, Random Forest, SVM, K-Means, PCA |
+| Data Processing & Visualization | OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn |
+
+### 📊 IoT & Embedded Development
+| Category | Key Skills |
+|----------|------------|
+| Embedded Systems | RTOS (FreeRTOS/RT-Thread), MCU (STM32/ESP32), Linux Driver Development |
+| IoT Communication | MQTT, CoAP, LoRa, Bluetooth/BLE, ZigBee, Visible Light Communication (VLC) |
+| Sensor & Perception | RFID, Image Sensors, Acoustic Sensors, IMU, Environmental Sensors |
 
 <br>
 
