@@ -92,13 +92,13 @@
 ### 🧠 AI/ML Frameworks & Models
 | Category | Key Technologies & Models |
 |----------|------------|
-| Deep Learning Frameworks | PyTorch, TensorFlow/Keras, ONNX, TorchServe |
-| Image Generation & Restoration | MAE, GAN/CycleGAN/Pix2Pix, VAE
+| Deep Learning Frameworks | PyTorch, TensorFlow/Keras, ONNX, OpenVINO, TorchServe |
+| Image Generation & Restoration | MAE, GAN/CycleGAN/Pix2Pix, VAE, Stable Diffusion, ESRGAN, GFPGAN |
 | Object Detection & Segmentation | YOLO(v5-v10)/YOLO-World, Fast R-CNN/Faster R-CNN, Mask R-CNN, DETR, GroundingDINO, SAM (Segment Anything) |
-| Vision Transformers | ViT, Swin Transformer, MobileViT, CLIP |
+| Vision Transformers | ViT, Swin Transformer, MobileViT, DeiT, CLIP, BLIP-2 |
 | CNN Architectures | ResNet/ResNeXt, DenseNet, MobileNetV2/V3, EfficientNet, CSPNet, GhostNet, ShuffleNet |
 | Sequence Models & NLP | LSTM/GRU, BiLSTM, Transformer, BERT, LLaMA, FastText |
-| Traditional ML & Optimization | LightGBM, XGBoost, Random Forest, SVM, K-Means, PCA |
+| Traditional ML & Optimization | LightGBM, XGBoost, Random Forest, SVM, K-Means, PCA, MCMC |
 | Data Processing & Visualization | OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn |
 
 ### 📊 IoT & Embedded Development
