@@ -97,20 +97,58 @@
 <br>
 
 ## 💻 Technical Skills (Expanded & Comprehensive)
+
 ### 🛠️ Programming Languages & Engineering Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/GCC-FFCF00?style=flat-square&logo=gcc&logoColor=black" alt="GCC">
+  <img src="https://img.shields.io/badge/Makefile-000000?style=flat-square&logo=gnu-make&logoColor=white" alt="Makefile">
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" alt="Microsoft Word">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop">
+</p>
 ### 🧠 AI/ML Frameworks & Models
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/XGBoost-00599C?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/LightGBM-00A699?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM">
+</p>
+
 | Category | Key Technologies & Models |
 |----------|---------------------------|
 | Deep Learning Frameworks | PyTorch, TensorFlow/Keras, ONNX, OpenVINO, TorchServe |
@@ -123,6 +161,20 @@
 | Data Processing & Visualization | OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn |
 
 ### 📊 IoT & Embedded Development
+<p>
+  <img src="https://img.shields.io/badge/STM32-003359?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/RT--Thread-FF69B4?style=flat-square&logo=rt-thread&logoColor=white" alt="RT-Thread">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT">
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth-b&logoColor=white" alt="BLE">
+  <img src="https://img.shields.io/badge/ZigBee-EE0000?style=flat-square&logo=zigbee&logoColor=white" alt="ZigBee">
+  <img src="https://img.shields.io/badge/LoRa-0099CC?style=flat-square&logo=lora&logoColor=white" alt="LoRa">
+  <img src="https://img.shields.io/badge/RFID-FF69B4?style=flat-square&logo=rfid&logoColor=white" alt="RFID">
+
+</p>
 | Category | Key Skills |
 |----------|------------|
 | Embedded Systems | RTOS, Embedded Real-time Operating System, MCU (STM32/ESP32), Linux Driver Development |
